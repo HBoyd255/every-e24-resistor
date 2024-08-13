@@ -6,5 +6,7 @@ tolerance.
 All of these files were created using the E24 Resistor Generator, available at
 [github.com/HBoyd255/e24-resistor-generator](https://github.com/HBoyd255/e24-resistor-generator).
 
+The pins on the resistors are 10.16mm apart, equivalent to 4 breadboard holes.
+
 All these files are under the MIT license, so feel free to use them in your
 projects.
